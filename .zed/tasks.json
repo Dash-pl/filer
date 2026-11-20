@@ -1,0 +1,10 @@
+[
+  {
+    "label": "run nim",
+    "command": "nim",
+    "args": ["r", "src/main.nim", "check", "file1.txt", "file2.txt"],
+    "use_new_terminal": false,
+    "allow_concurrent_runs": true,
+    "reveal": "always"
+  }
+]
