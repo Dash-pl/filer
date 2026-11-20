@@ -6,7 +6,7 @@ description   = "Just learning"
 license       = "IDK"
 srcDir        = "src"
 installExt    = @["nim"]
-bin           = @["main"]
+bin           = @["filer"]
 
 
 # Dependencies
