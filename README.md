@@ -100,3 +100,4 @@ Each two-bit pair in a digest selects one diagonal step on a 17 × 9 board. Visi
 ## License
 
 No license has been specified yet. See `nim_program.nimble` for the current package metadata.
+
