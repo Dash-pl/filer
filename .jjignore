@@ -1,0 +1,24 @@
+# Nim compiler cache and generated build metadata
+nimcache/
+.nimble/
+
+# Nimble/local build output
+filer
+filer.exe
+
+# Compiled test executables
+tests/test_randomart
+tests/test_randomart.exe
+
+# Native compiler artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+.zed/
+
